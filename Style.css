@@ -1,5 +1,9 @@
-#total {
-    width: 1000px;
-    margin: 0 auto;
-}
+body {margin: 0;font-family: 'tahoma ms';color: #666;}
 
+#Total {width: 1000px;margin: 0 auto;}
+
+#Logo {text-align: center;}
+
+#Menu {text-align: center;background-color: #222;color: white;height: 40px;}
+
+#Menu a {color: #fff;text-decoration: none;line-height: 40px;}
